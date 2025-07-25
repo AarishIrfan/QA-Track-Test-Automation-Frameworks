@@ -1,24 +1,3 @@
-```markdown
-# QA Track - Test Automation Frameworks
-
-This repository includes multiple test automation frameworks using Selenium, Playwright, and MSTest. It follows modular designs with test logging, reporting, and batch execution.
-
-## Folder Structure
-
-```
-
-QA-Track-Test-Automation-Frameworks/
-│
-├── playwright-framework/          # Playwright tests
-├── pom-action-based/              # Selenium POM with Actions
-├── selenium-framework/            # Selenium with MSTest
-├── All\_TestLogger.bat             # Batch script for running tests
-├── TrxToHTML.exe                  # Converts test results to HTML
-├── README.md
-└── LICENSE
-
-````
-
 ## Tools and Technologies
 
 - Selenium WebDriver  
