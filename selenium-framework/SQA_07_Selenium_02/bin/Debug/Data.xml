@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+	<Execution>			
+		<TestCase_DataDriven_XML_001>
+			<url>http://adactinhotelapp.com/</url> 
+			<username>AmirTester</username>
+			<password>AmirTester</password>
+			<message>Welcome to Adactin Group of Hotels</message>
+			<locator>welcome_menu</locator>				
+		</TestCase_DataDriven_XML_001>	
+		<Login>
+			<url>http://adactinhotelapp.com/</url> 
+			<username>AmirTester</username>
+			<password>AmirTester</password>				
+		</Login>	
+	</Execution>
+</Automation>

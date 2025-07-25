@@ -1,0 +1,60 @@
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\SQA07_POM_ActionBased.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\SQA07_POM_ActionBased.pdb
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\WebDriver.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\WebDriver.Support.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.AssemblyReference.cache
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.CoreCompileInputs.cache
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.CopyComplete
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.dll
+C:\Users\imammami\source\repos\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.pdb
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\SQA07_POM_ActionBased.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\SQA07_POM_ActionBased.pdb
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\WebDriver.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\WebDriver.Support.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.AssemblyReference.cache
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.CoreCompileInputs.cache
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.CopyComplete
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.dll
+D:\Downloads\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.pdb
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\linux\selenium-manager
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\macos\selenium-manager
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\selenium-manager\windows\selenium-manager.exe
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\SQA07_POM_ActionBased.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\SQA07_POM_ActionBased.pdb
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\WebDriver.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\WebDriver.Support.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.AssemblyReference.cache
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.CoreCompileInputs.cache
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.csproj.CopyComplete
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.dll
+E:\Software Testing\Sir Amir Imam\SQA07_POM_ActionBased\SQA07_POM_ActionBased\obj\Debug\SQA07_POM_ActionBased.pdb
