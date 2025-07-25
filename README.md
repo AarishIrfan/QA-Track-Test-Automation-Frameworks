@@ -1,9 +1,7 @@
 ```markdown
-# QA Track – Test Automation Frameworks
+# QA Track - Test Automation Frameworks
 
-A structured and modular repository containing reusable test automation frameworks and utility components built using **Selenium**, **Playwright**, and **MSTest** in **C#**. Designed for scalable, maintainable, and data-driven testing solutions.
-
----
+This repository includes multiple test automation frameworks using Selenium, Playwright, and MSTest. It follows modular designs with test logging, reporting, and batch execution.
 
 ## Folder Structure
 
@@ -11,68 +9,37 @@ A structured and modular repository containing reusable test automation framewor
 
 QA-Track-Test-Automation-Frameworks/
 │
-├── playwright-framework/          → Playwright-based automation setup
-├── pom-action-based/              → Selenium Page Object Model with Action Methods
-├── selenium-framework/            → Basic Selenium automation implementation
-├── utilities/                     → Shared utility components for test frameworks
-│   ├── ExcelReader.cs             → Data-driven testing from Excel files
-│   ├── JsonReader.cs              → Configuration and payload handling from JSON
-│   ├── RandomDataGenerator.cs     → Synthetic test data generator
-│   ├── Logger.cs                  → Log4Net-based custom logger
-│   └── FileManager.cs             → File operations for automation needs
-│
-├── All\_TestLogger.bat             → Batch script to trigger tests and logging
-├── TrxToHTML.exe                  → MSTest report converter from .trx to HTML
-├── LICENSE                        → Project license (MIT)
-└── README.md                      → Documentation (this file)
+├── playwright-framework/          # Playwright tests
+├── pom-action-based/              # Selenium POM with Actions
+├── selenium-framework/            # Selenium with MSTest
+├── All\_TestLogger.bat             # Batch script for running tests
+├── TrxToHTML.exe                  # Converts test results to HTML
+├── README.md
+└── LICENSE
 
 ````
 
----
+## Tools and Technologies
 
-## 🛠 Tech Stack
+- Selenium WebDriver  
+- Playwright  
+- C# with MSTest  
+- JavaScript  
+- Extent Reports  
+- TRX to HTML converter  
+- Batch scripting
 
-- **Language:** C#
-- **Frameworks:** MSTest, Selenium WebDriver, Playwright
-- **Tools:** Log4Net, TrxToHTML, PowerShell/CMD
-- **Data Formats:** Excel (XLSX), JSON
+## How to Run
 
----
-
-## Utilities Overview
-
-| Utility File              | Purpose                                                |
-|---------------------------|--------------------------------------------------------|
-| `ExcelReader.cs`          | Reads Excel files for data-driven test input           |
-| `JsonReader.cs`           | Parses test configuration and payload from JSON files  |
-| `RandomDataGenerator.cs`  | Creates random strings, numbers, and email addresses   |
-| `Logger.cs`               | Implements custom logging using Log4Net                |
-| `FileManager.cs`          | Handles file reads/writes, cleanup, and validation     |
-| `All_TestLogger.bat`      | Executes test suites with logging                      |
-| `TrxToHTML.exe`           | Converts MSTest `.trx` files into readable HTML reports|
-
----
-
-## Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/AarishIrfan/QA-Track-Test-Automation-Frameworks.git
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/AarishIrfan/QA-Track-Test-Automation-Frameworks.git
 ````
 
-### Run Tests (Example for MSTest)
-
-```bash
-cd pom-action-based
-dotnet test
-```
-
-### Generate Reports
-
-1. After running tests, locate `.trx` file in the TestResults folder.
-2. Use `TrxToHTML.exe` to convert it:
+2. Go to any framework folder and run tests using:
 
    ```bash
-   TrxToHTML.exe path\to\result.trx
+   All_TestLogger.bat
+   ```
 
+3. Use `TrxToHTML.exe` to convert test results.
